@@ -1,13 +1,12 @@
 # Landing Page Project
-
+The project is part of the Udacity front-end professional web development nanodegree.
 ## Table of Contents
 
-* [Instructions](#instructions)
 
-## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Purpose
 
-To get started, open `js/app.js` and start building out the app's functionality
+Its purpose is to practice javascript and convert this the project from a static one to an interactive (dynamic) one. 
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+### Aim
+Building a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
